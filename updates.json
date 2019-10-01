@@ -2,11 +2,28 @@
    "releases":[
       [
          "1.19.8f",
-         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.8/Decimation.jar"
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.8/Decimation.jar",
+         "Fixes for clan commands, player rendering, global stats and more."
       ],
       [
          "1.19.7f",
-         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.7/Decimation.jar"
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.7/Decimation.jar",
+         "Fixes for player camera, invisible crouch/prone, server-side AC and more."
+      ],
+      [
+         "1.19.6f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.6/Decimation.jar",
+         "New networking, discord integration, player statistics, fixes and more."
+      ],
+      [
+         "1.19.5f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.5/Decimation.jar",
+         "New item recipes, dog petting, ai updates, nerfs, buffs and more."
+      ],
+      [
+         "1.19.4f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.4/Decimation.jar",
+         "New trader prices, dog entities, rendering fixes, magazine types and more."
       ]
    ]
 }

@@ -1,0 +1,12 @@
+{
+   "releases":[
+      [
+         "1.19.8f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.8/Decimation.jar"
+      ],
+      [
+         "1.19.7f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.7/Decimation.jar"
+      ]
+   ]
+}

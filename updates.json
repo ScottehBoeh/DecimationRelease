@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.19.9f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.19.9/Decimation.jar",
+         "New networking, new update features, new items and more."
+      ],
+      [
          "1.19.8f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.19.8/Decimation.jar",
          "Fixes for clan commands, player rendering, global stats and more."

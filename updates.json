@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.20.0f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.20.0/Decimation.jar",
+         "Added new waypoints, networking code and removed discord account linking."
+      ],
+      [
          "1.19.9f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.19.9/Decimation.jar",
          "New networking, new update features, new items and more."

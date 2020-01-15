@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.20.7f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.20.7/Decimation.jar",
+         "New weapons, turf fortification fixes, and more!"
+      ],
+      [
          "1.20.6f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.20.6/Decimation.jar",
          "Fixed several bugs identified in 1.20.5. Also fixed old school problems"

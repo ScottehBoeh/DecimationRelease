@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.21.0f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.21.0/Decimation.jar",
+         "Suicide Vest + Detonator, Adjusted weapon recoil and necessary fixes!"
+      ],
+      [
          "1.20.9f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.20.9/Decimation.jar",
          "New weapons, optimisations and more!"

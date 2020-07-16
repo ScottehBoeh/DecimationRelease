@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.21.4f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.21.4/Decimation.jar",
+         "Fixed several trade exploits"
+      ],
+      [
          "1.21.3f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.21.3/Decimation.jar",
          "Improved scrap trading, tweaked GUI and more!"

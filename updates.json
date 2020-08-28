@@ -1,6 +1,11 @@
 {
    "releases":[
       [
+         "1.21.6f",
+         "https://github.com/boehmod/DecimationRelease/releases/download/1.21.6f/Decimation.jar",
+         "Performance issue fixes and slowness fixes!"
+      ],
+      [
          "1.21.5f",
          "https://github.com/boehmod/DecimationRelease/releases/download/1.21.5f/Decimation.jar",
          "Several bug fixes, gameplay changes and more!"
